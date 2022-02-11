@@ -1,0 +1,5 @@
+DEBUG main LogFactoryTest - debug log
+INFO main LogFactoryTest - info log
+WARN main LogFactoryTest - warn log
+ERROR main LogFactoryTest - error log
+FATAL main LogFactoryTest - fatal log
